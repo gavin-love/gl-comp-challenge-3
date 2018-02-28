@@ -1,0 +1,68 @@
+.graphs-and-icons {
+  height: 420px;
+  width: 100%;
+  background-color: #EEF2F6;
+}
+
+.donut--img {
+  width: 679px;
+}
+
+.bar-graph--img {
+  width: 529px;
+}
+
+.graphs {
+  display: flex;
+}
+
+.graph-icons {
+  display: flex;
+  justify-content: space-around;
+}
+.totals {
+  width: 221px;
+  height: 35px;
+  border-radius: 30px;
+  margin-left: 58px;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.out-of {
+  margin-left: 20px;
+  font-size: 11px;
+}
+
+.apps-day {
+  width: 156px;
+  height: 35px;
+  border-radius: 30px;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 46px;  
+}
+
+.hr-icon-hr {
+  display: flex;
+  margin-top: 54px;
+}
+
+.hr-line {
+    width: 100%;
+    position: relative;
+    margin: 15px;
+    border-bottom: 1px solid lightgrey;
+  }
+.hr-icon {
+    position: relative;
+    top: 3px;
+    color: lightgrey;
+  }
+
+  .fas.fa-chevron-circle-up::before {
+    font-size: 30px;
+  }
+

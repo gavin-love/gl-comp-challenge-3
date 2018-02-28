@@ -1,0 +1,60 @@
+.table-and-social {
+  display: inline-block;
+  width: 100%
+  height: 984px;
+  background-color: #EEF2F6;
+}
+
+
+table {
+  width: 760px;
+  margin-left: 50px;
+}
+
+.td-width {
+  width: 35%;
+}
+
+.position {
+  background-color: #374050;
+  height: 80px;
+}
+
+.location {
+  height: 80px;
+  background-color: #ffff
+}
+
+.employment {
+  height: 80px;
+  background-color: #ffff
+}
+
+.experience {
+  height: 80px;
+  background-color: #ffff
+}
+
+.status {
+  height: 80px;
+  background-color: #ffff
+}
+
+.description {
+  height: 240px;
+  background-color: #ffff;
+}
+
+.hiring-lead {
+  height: 80px;
+  background-color: #ffff
+}
+
+.tom--img {
+  width: 50px;
+}
+
+.salary {
+  height: 80px;
+  background-color: #ffff
+}
